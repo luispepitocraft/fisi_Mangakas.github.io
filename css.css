@@ -1,0 +1,33 @@
+#y{float: right;}
+div{margin-left: 20%;
+    margin-right: 20%;
+    background-color: aliceblue;
+}
+img{height: 120px;
+    width: 120px;
+}
+body{background-color:black;}
+h1,h2{text-align: center;
+text-decoration:underline}
+span{font-weight: bold;}
+#yo{height: 250px;
+     width: 400px;
+     position: absolute;
+     right: 22%;
+     top:50%;
+    
+}
+#img{
+    height: 300px;
+    width: 500px;
+    position: relative;
+    left: 20%;
+}
+ul{
+    position: absolute;
+    right: 50%;
+    font-size: 20px;
+    
+}
+p{text-align: center;}
+}

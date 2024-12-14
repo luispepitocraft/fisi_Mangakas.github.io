@@ -1,0 +1,13 @@
+table{background-color: aliceblue; margin-left: 15%; margin-right: 15%; background-image: url(img/azul.jpg); background-repeat: no-repeat; background-size: cover;}
+body{background-color: darkgray;}
+p{font-size: 17px; font-size: 20px; text-align: center;margin-left: 15%; margin-right: 15%;}
+h1,h2{text-align: center; text-decoration: underline;}
+#p{background-color: burlywood; }
+#p1{margin-left: 30% ; margin-right: auto;}
+#coco{background-color: darkgray;
+    text-align: left;
+    margin-left: 15%;
+    margin-right: 50%;
+
+}
+
